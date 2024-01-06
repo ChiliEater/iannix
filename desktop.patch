@@ -1,0 +1,15 @@
+diff --git a/iannix.desktop b/iannix.desktop
+index 420322f..1c7d4b2 100644
+--- a/iannix.desktop
++++ b/iannix.desktop
+@@ -1,8 +1,8 @@
+ [Desktop Entry]
+ Name=IanniX
+ Comment=Graphical sequencer for digital art
+-Exec=IanniX
+-Icon=/usr/share/pixmaps/IanniX.png
++Exec=iannix
++Icon=/usr/share/pixmaps/iannix.png
+ Terminal=false
+ Type=Application
+ X-MultipleArgs=false
